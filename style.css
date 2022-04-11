@@ -62,11 +62,13 @@
     width: 640px;
     height: 423px;
     background-image: linear-gradient(#ddd288, #A5962F);
+    display: block;
 }
 #Background2{
     width: 640px;
     height: 280px;
     background: #A5962F;
+    display: block;
 }
 #Background_letter{
     width: 560px;
